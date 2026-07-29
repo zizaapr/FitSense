@@ -1,0 +1,11 @@
+Letakkan file dataset asli Anda di sini dengan nama: body.csv
+
+File ini dipakai aplikasi (secara opsional) untuk:
+1. Menghitung ulang batas kuantil (qcut) fitur "kategori_tinggi" secara
+   PERSIS sama seperti proses training di notebook body.ipynb.
+2. Menampilkan statistik dataset live (jumlah data, distribusi kelas, dll)
+   di halaman "Informasi Model".
+
+Jika file ini tidak ada, aplikasi tetap berjalan normal menggunakan nilai
+fallback (estimasi kuantil dari scaler.pkl untuk kategori_tinggi, dan
+angka hasil aktual notebook untuk statistik dataset) -- lihat README.md.

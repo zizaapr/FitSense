@@ -1,0 +1,6 @@
+jenis_kelamin,usia,lingkar_kepala,lebar_bahu,lebar_dada,lingkar_perut,lingkar_pinggang,lingkar_pinggul,panjang_lengan,bahu_ke_pinggang,pinggang_ke_lutut,panjang_kaki,tinggi_badan,ukuran_dicoba,usia_group,kategori_tinggi,Label Asli,Hasil Prediksi,Confidence (%),Status,Rekomendasi Ukuran
+2,6,21,9,10,19,20,9,12,19,9,17,38,L,1,Pendek,Terlalu Besar,Terlalu Besar,84.08,True,M
+2,13,20,12,14,23,13,15,16,13,16,30,51,XL,2,Tinggi,Terlalu Besar,Terlalu Besar,88.58,True,L
+1,17,28,18,29,28,27,28,25,27,24,40,79,L,3,Sangat Tinggi,Terlalu Kecil,Terlalu Kecil,88.9,True,XL
+2,9,20,12,11,21,24,25,17,16,16,27,48,XL,1,Sedang,Pas,Pas,84.36,True,XL
+1,11,21,13,12,20,16,20,16,19,15,27,29,L,2,Pendek,Terlalu Besar,Terlalu Besar,82.53,True,M
